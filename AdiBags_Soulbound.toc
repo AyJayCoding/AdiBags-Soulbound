@@ -1,8 +1,8 @@
-## Interface: 90100
+## Interface: 90200
 ## Title: AdiBags - Soulbound
 ## Notes: Adds a Soulbound filter to AdiBags.
 ## Author: Anijia
-## Version: 0.6
+## Version: 0.9
 ## Dependencies: AdiBags
 Localization.lua
 AdiBags_Soulbound.lua
