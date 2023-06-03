@@ -1,8 +1,8 @@
-## Interface: 90207
+## Interface: 100100
 ## Title: AdiBags - Soulbound
 ## Notes: Adds a Soulbound filter to AdiBags.
 ## Author: AyJayCoding
-## Version: 1.0.1
+## Version: 1.0.2
 ## Dependencies: AdiBags
 ## X-Curse-Project-ID: 418697
 ## X-Wago-ID: J96Emv6g
